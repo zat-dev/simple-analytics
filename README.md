@@ -1,5 +1,5 @@
 # simple-analytics
-access analytics tool for whom think google analytics is too difficult to use. 
+access-analytics tool for whom think google analytics is too difficult to use. 
 
 # features
 * easy to browse Page View
